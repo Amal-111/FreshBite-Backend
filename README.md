@@ -41,6 +41,12 @@ The complete FreshBite web application is deployed online:
 
 [Visit FreshBite](https://freshbite.infinityfreeapp.com/FreshBite/index.php)
 
+## Demo Video
+
+A demonstration of the FreshBite system and its main features is available here:
+
+[Watch FreshBite Demo](https://canva.link/rxee05we4lu2bc2)
+
 ## Frontend Repository
 
 The frontend implementation of FreshBite is available here:
